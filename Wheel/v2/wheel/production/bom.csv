@@ -1,0 +1,27 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C2, C5",0603,3,0.33u,C5139492
+"C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C3, C4, C6, C7, C8, C9",0603,16,0.1u,C14663
+C20,0603,1,0.1u,
+CAN_LAN1,RJ45_43860-0004,1,RJ45,
+CAN_Recieber1,DIP-8_W7.62mm,1,MCP2561-E-P,C640341
+D1,1206,1,D,
+Diso_Debug1,PinHeader_1x04_P2.54mm_Vertical,1,Conn_01x04_Male,
+"ENC_conn_0, ENC_conn_1, ENC_conn_2, ENC_conn_3, ENC_conn_4, ENC_conn_5",JST_XH_S5B-XH-A_1x05_P2.50mm_Horizontal,6,Conn_01x05_Female,
+J1,PinSocket_1x05_P2.54mm_Vertical,1,Conn_01x05_Female,
+J2,PinHeader_1x03_P2.54mm_Vertical,1,Conn_01x03_Female,
+"LED_Blue1, LED_Green1, LED_Red1, Load_Debug1, Power_Debug1",LED_PLCC-2_3.4x3.0mm_AK,5,CQY99,
+"Load1, Power1",AMASS_XT60-F_1x02_P7.20mm_Vertical,2,Conn_01x02_Female,
+"Load_5V1, Power_3V3, Power_5V1",TO-252-3_TabPin2,3,L7805,
+"MD_Iso_0, MD_Iso_1, MD_Iso_2, MD_Iso_3, MD_Iso_4, MD_Iso_5",SOIC-16W_7.5x10.3mm_P1.27mm,6,ADuM1401xRW,C91762
+"MD_conn_0, MD_conn_1, MD_conn_2, MD_conn_3, MD_conn_4, MD_conn_5",JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal,6,Conn_01x04_Female,
+Nucleo-F446RE_1,MODULE_NUCLEO-F446RE,1,NUCLEO-F446RE-Nucleo,
+"Q1, Q10, Q11, Q12, Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9",SC-59_Handsoldering,12,2SC1945,
+"R1, R3, R5, R56, R57",0603,5,330,C22978
+"R10, R11, R12, R14, R16, R18, R2, R20, R22, R24, R25, R26, R27, R28, R29, R30, R32, R33, R34, R35, R36, R37, R38, R39, R4, R40, R41, R42, R43, R44, R45, R46, R47, R48, R49, R50, R51, R52, R53, R54, R55, R6, R60, R7, R8, R9",0603,46,10k,C25804
+"R13, R15, R17, R19, R21, R23, R31, R61, R62, R63, R64, R65",0603,12,20k,C4184
+"R66, R67",0603,2,100,
+SBDBT1,SBDBT5V,1,SBDBT5V-SBDBT5V-2020Main-Main_2021-rescue,
+SBDBT_Debug1,PinHeader_1x02_P2.54mm_Vertical,1,Conn_01x02_Male,
+"ST0, ST1, ST2",SOP65P640X120-14N,3,SN74HC14PWR,C6821 
+SW1,SW_E-Switch_EG2219_DPDT_Angled,1,SW_Push_DPDT,
+SW2,SW_Tactile_SPST_Angled_PTS645Vx39-2LFS,1,SW_MEC_5G,
